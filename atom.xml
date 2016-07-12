@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://wesky260643.github.io/atom.xml" rel="self"/>
   <link href="http://wesky260643.github.io/"/>
-  <updated>2016-07-12T17:13:24+08:00</updated>
+  <updated>2016-07-12T17:27:46+08:00</updated>
   <id>http://wesky260643.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test_blog]]></title>
+    <link href="http://wesky260643.github.io/blog/2016/07/12/test-blog/"/>
+    <updated>2016-07-12T17:22:02+08:00</updated>
+    <id>http://wesky260643.github.io/blog/2016/07/12/test-blog</id>
+    <content type="html"><![CDATA[<h1>test</h1>
+
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
