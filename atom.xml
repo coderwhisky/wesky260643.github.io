@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://wesky260643.github.io/atom.xml" rel="self"/>
   <link href="http://wesky260643.github.io/"/>
-  <updated>2016-07-12T17:27:46+08:00</updated>
+  <updated>2016-07-12T17:33:26+08:00</updated>
   <id>http://wesky260643.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,14 +18,7 @@
     <link href="http://wesky260643.github.io/blog/2016/07/12/test-blog/"/>
     <updated>2016-07-12T17:22:02+08:00</updated>
     <id>http://wesky260643.github.io/blog/2016/07/12/test-blog</id>
-    <content type="html"><![CDATA[<h1>test</h1>
-
-<ul>
-<li>1</li>
-<li>2</li>
-<li>3</li>
-</ul>
-
+    <content type="html"><![CDATA[<p>哈尼，恭喜你又回到湖南了，今年因为我，真的让你够折腾的了，真是对得上你这个本命年啊，你在家里好好养着，该吃吃，该用用，该花花，钱的事儿不用你担心啦，love you！</p>
 ]]></content>
   </entry>
   
